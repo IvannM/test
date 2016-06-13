@@ -6,4 +6,3 @@ composer.phar
 package.tar
 /packages.json
 /.phpunit
-/nbproject/private/
